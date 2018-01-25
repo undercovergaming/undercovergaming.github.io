@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Exo:500|Orbitron:900');
+    
+    h1 {
+      font-family: 'Orbitron', sans-serif;
+    }
+    h2 {
+      font-family: 'Exo', sans-serif;
+      font-size: 20px;
+      color: #514f4f;
+    }
+    #left {
+      background-color: #afafaf;
+      width: 1200px;
+      float: left;
+      padding: 0px;
+      margin: 0 0;
+      border-radius: 10px;
+    }
+
+    button {
+      font-family: 'Exo', sans-serif;
+      font-size: 14px;
+      
+    }
+    p {
+      font-family: 'Exo', sans-serif;
+      color: white;
+    }
+    body {
+      }
